@@ -5,7 +5,7 @@ This is the second webpage I’ve built as part of my learning journey, using **
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Site](https://yourproject.netlify.app)
+🔗 [View the Live Site](https://zaidn4.github.io/Voyage/)
 
 ## 📄 License
 
